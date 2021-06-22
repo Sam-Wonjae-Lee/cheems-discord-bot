@@ -1,0 +1,5 @@
+discord
+flask
+praw
+pymediawiki
+akinator.py
